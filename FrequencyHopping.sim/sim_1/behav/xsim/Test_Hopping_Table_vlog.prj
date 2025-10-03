@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FrequencyHopping.srcs/sources_1/new/Hopping_Table.v" \
+"../../../../FrequencyHopping.srcs/sim_1/new/Test_Hopping_Table.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

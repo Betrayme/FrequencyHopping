@@ -1,0 +1,5 @@
+Frequency_Synthesizer_dds_compiler_0_0.vhd,vhdl,xil_defaultlib,../../../bd/Frequency_Synthesizer/ip/Frequency_Synthesizer_dds_compiler_0_0/sim/Frequency_Synthesizer_dds_compiler_0_0.vhd,
+Frequency_Synthesizer_Hopping_Table_0_0.v,verilog,xil_defaultlib,../../../bd/Frequency_Synthesizer/ip/Frequency_Synthesizer_Hopping_Table_0_0/sim/Frequency_Synthesizer_Hopping_Table_0_0.v,
+Frequency_Synthesizer_util_vector_logic_0_0.v,verilog,xil_defaultlib,../../../bd/Frequency_Synthesizer/ip/Frequency_Synthesizer_util_vector_logic_0_0/sim/Frequency_Synthesizer_util_vector_logic_0_0.v,
+Frequency_Synthesizer.v,verilog,xil_defaultlib,../../../bd/Frequency_Synthesizer/sim/Frequency_Synthesizer.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

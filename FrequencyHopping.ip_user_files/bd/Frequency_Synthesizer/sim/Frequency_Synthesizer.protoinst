@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"Frequency_Synthesizer": {
+			"proto_instances": {
+			}
+		}
+	}
+}

@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../bd/Frequency_Synthesizer/ip/Frequency_Synthesizer_dds_compiler_0_0/sim/Frequency_Synthesizer_dds_compiler_0_0.vhd" \
+
+nosort
