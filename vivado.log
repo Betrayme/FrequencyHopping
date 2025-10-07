@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Oct  3 19:00:23 2025
+# Process ID: 23496
+# Current directory: D:/WORK_SPCAE/Vivado_Project/FrequencyHopping
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22856 D:\WORK_SPCAE\Vivado_Project\FrequencyHopping\FrequencyHopping.xpr
+# Log file: D:/WORK_SPCAE/Vivado_Project/FrequencyHopping/vivado.log
+# Journal file: D:/WORK_SPCAE/Vivado_Project/FrequencyHopping\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/WORK_SPCAE/Vivado_Project/FrequencyHopping/FrequencyHopping.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2021.1/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:06 . Memory (MB): peak = 1118.246 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Oct  3 19:03:43 2025...

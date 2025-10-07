@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Oct  3 19:00:23 2025
+# Process ID: 23496
+# Current directory: D:/WORK_SPCAE/Vivado_Project/FrequencyHopping
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22856 D:\WORK_SPCAE\Vivado_Project\FrequencyHopping\FrequencyHopping.xpr
+# Log file: D:/WORK_SPCAE/Vivado_Project/FrequencyHopping/vivado.log
+# Journal file: D:/WORK_SPCAE/Vivado_Project/FrequencyHopping\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/WORK_SPCAE/Vivado_Project/FrequencyHopping/FrequencyHopping.xpr
+update_compile_order -fileset sources_1
